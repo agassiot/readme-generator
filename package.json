@@ -1,0 +1,14 @@
+{
+  "name": "readme-generator",
+  "version": "1.0.0",
+  "description": "generate a simple project readme from the command line",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Andrew Gassiot",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^9.1.2"
+  }
+}
