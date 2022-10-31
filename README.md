@@ -1,22 +1,27 @@
-  ## 
+  ## README Generator
 
             ## ###########################
 
             ## Description
+            Generate simple README files for your projects
             
             ### Installation
+            n/a
             
             ### Use
+            automating GitHub workflow
             
             ### Credits
-            
-            ### License
-            [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+            a ∆ix solo project
+          
             ### Features
+            Generate README's from the command line
             
             #### Struggles
+            n/a
             
             ### Links
-            Github Page 
-            Github Repository 
-            Live Link 
+            
+            Github Page https://github.com/agassiot/
+            Github Repository https://github.com/agassiot/readme-generator
+            Live Link n/a
